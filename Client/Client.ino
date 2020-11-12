@@ -11,7 +11,7 @@ boolean FINISHED = false;
 int CR[] = {5, 6, 7, 8};
 int SF[] = { 6, 7, 8, 9, 10, 11, 12, 13};
 int NBPACKET = 100;
-int i = 6;
+int i = 0;
 
 
 void setup() {
